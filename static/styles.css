@@ -19,3 +19,23 @@ body {
     animation: fadeIn 1s ease-in-out;
 }
 
+h1 {
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+    color: #6a11cb;
+}
+
+p {
+    margin-bottom: 1.5rem;
+    color: #555;
+}
+
+input {
+   padding: 0.8rem;
+   width: 70%;
+   border-radius: 10px;
+   border: 1px solid #ccc;
+   margin-right: 0.5rem;
+   outline: none;
+   transition: 0.3s;
+}
