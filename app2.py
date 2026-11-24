@@ -13,4 +13,5 @@ def greet():
         varNama = "Anonim"
     return f"<h2>Halo, {varNama}! Selamat datang do Flask First App </h2>"
     
-
+if __name__ == "__main__":
+    app.run(debug=True)
